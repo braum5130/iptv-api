@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-05 18:41:42,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-06 06:37:04,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -24,6 +24,10 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
+纬来育乐,rtmp://60.248.77.83/sat/tv701
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🎬电影频道,#genre#
