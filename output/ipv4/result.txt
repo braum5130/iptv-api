@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-08 06:36:19,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-09 18:56:09,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -32,6 +32,7 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 龙祥电影,http://43.251.226.89:8080/play/678.m3u8
 
 🏀体育频道,#genre#
+广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
