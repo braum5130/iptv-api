@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2026-03-18 06:43:02,http://107.150.60.122/live/cctv5p.m3u8
+2026-03-19 18:40:44,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 
 💰央视付费频道,#genre#
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+文化精品,http://107.150.60.122/live/ysjp.m3u8
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
@@ -20,8 +21,6 @@ CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🎬电影频道,#genre#
-CHC家庭影院,http://156.238.248.80:8880/play/59.m3u8
-CHC动作电影,http://156.238.248.80:8880/play/58.m3u8
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
 
 🏀体育频道,#genre#
